@@ -1,0 +1,11 @@
+numpy
+moviepy
+cv2
+pyaudio
+wave
+threading
+datetime
+time
+ImageFont
+ImageDraw
+Image
